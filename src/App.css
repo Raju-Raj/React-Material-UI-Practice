@@ -1,5 +1,8 @@
+/* body{
+  background-color: rgb(233, 242, 245);
+} */
 .App {
-  text-align: center;
+  padding: 2rem;
 }
 
 .App-logo {
