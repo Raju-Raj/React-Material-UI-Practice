@@ -3,6 +3,8 @@
 } */
 .App {
   padding: 2rem;
+  background: gray;
+  height: 100vh;
 }
 
 .App-logo {

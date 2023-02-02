@@ -16,7 +16,6 @@ const MuiResponsiveness = () => {
         bgcolor:'primary.main'
     }}
     >
-
     </Box>
   )
 }
